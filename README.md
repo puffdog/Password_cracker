@@ -1,4 +1,3 @@
-Here’s a complete and straightforward README.md file for your Password Cracker project. You can copy it directly without any edits.
 
 ```markdown
 # Password Cracker
