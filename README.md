@@ -71,21 +71,18 @@ password-cracker/
 
 ---
 
-## 🎯 Example Workflow  
-
-![Example GIF](https://via.placeholder.com/800x200.gif?text=Demo+Animation)
 
 ---
 
 ## 🔒 Why This Project?  
-This tool highlights the importance of using **strong, unique passwords** by demonstrating the weaknesses of common passwords. Always prioritize password security to protect your digital identity!
+This tool highlights the importance of using **strong, unique passwords** by demonstrating the weaknesses of common passwords. Always prioritize password security to protect your digital identity.
 
 ---
 
 ## 💬 Contact  
 Got questions or suggestions? Reach out:  
 📧 Email: [mabasagiftpd@gmail.com](mailto:mabasagiftpd@gmail.com)  
-🌐 GitHub: [yourusername](https://github.com/yourusername)
+
 
 ---
 
@@ -97,5 +94,4 @@ Unauthorized use of password-cracking tools is illegal and unethical. Always res
 
 ## ❤️ Support  
 ⭐ Found this project helpful? Please consider giving it a star on GitHub!
-```
 
