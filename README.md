@@ -1,7 +1,5 @@
 # 🔓 Password Cracker
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Password+Cracker+Project)  
-**Educational project to demonstrate password cracking using a dictionary attack.**
 
 ---
 
